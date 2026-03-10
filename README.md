@@ -8,6 +8,16 @@ The calculator was designed to demonstrate **event-driven programming**, **GUI d
 
 ---
 
+## Screenshot
+<p align="center">
+  <img src="calculator.png" width="500">
+</p>
+<p align="center">
+  <em>Java Swing Calculator Interface</em>
+</p>
+
+---
+
 ## Features
 
 - Interactive graphical calculator interface
